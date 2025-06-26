@@ -1,4 +1,4 @@
-# AC-To-5V-DC-converter
+# AC-To-5V-DC-converter (12/03/2023)
 This is a basic electronics project built during my first year in the EEE department. The objective was to design and build a 5V charger using a step-down transformer, full-wave bridge rectifier, filtering capacitor, and a 7805 voltage regulator.
 
 ⚙️ Features
